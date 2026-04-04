@@ -1,24 +1,54 @@
-# Weather App
+# 🌟 Weather App
 
-A simple and responsive weather application that fetches real-time weather data using the OpenWeatherMap API.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
-## 🌦 Features
+**Weather App** is a web application built using **HTML, CSS, and JavaScript**, designed to provide **real-time weather information** with a clean and user-friendly interface.
 
-- Search weather by city name
-- Displays temperature, humidity, and wind speed
-- Dynamic weather icons based on conditions
-- Error handling for invalid city names
-- Clean and responsive UI
+💡 This project focuses on integrating **API data with frontend UI**, creating a seamless experience for users to check weather conditions instantly.
 
-## 🛠 Tech Stack
+---
 
-- HTML5
-- CSS3
-- JavaScript (Fetch API)
-- OpenWeatherMap API
+## 🌐 Live Demo
 
-## 🚀 How It Works
+[🌦️ View Weather App Live](https://weather-app-ashy-eta-71.vercel.app/)
 
-- User enters a city name
-- App fetches weather data from OpenWeatherMap API
-- Weather details update dynamically on the UI
+---
+
+## 🌈 Tech Skills
+
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
+
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
+
+---
+
+## 💻 About Weather App
+
+- Fetches **real-time weather data using API**  
+- Displays key information like **temperature, weather conditions, and location**  
+- Designed with a **clean and responsive UI**  
+- Provides **fast and interactive user experience**  
+- Demonstrates **API integration with frontend development**  
+
+---
+
+## 🌱 Learning & Growth
+
+- 🔗 Working with **APIs and asynchronous JavaScript**  
+- 💻 Strengthening **JavaScript logic and DOM manipulation**  
+- 🌐 Improving **responsive UI design**  
+
+---
+
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://tanishka-dev.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2744/Weather_App)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
+
+---
+
+Made with ❤️ using **HTML, CSS & JavaScript**
